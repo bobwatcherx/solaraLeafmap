@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YOU NAME HERE",
+        "country": "America"
+      },
+      "geometry": {
+        "coordinates": [
+          8.067669659698652,
+          22.497818726117416
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "new york",
+        "country": "test test 2"
+      },
+      "geometry": {
+        "coordinates": [
+          13.668907686424944,
+          13.928512912231042
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    }
+  ]
+}
